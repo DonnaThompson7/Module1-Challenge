@@ -1,15 +1,15 @@
 # Module 1 Challenge
+
+## Overview:
 * Developer: Donna Thompson
-* Challenge type: Refactoring existing code for 'Horiseon' website
+* Challenge type: Refactoring existing code for Horiseon website
+* Goal of modifications: Ensure that accessibility standards are met.
+* Benefit of modifications: The website will be optimized for search engines.
+
+<br/>
 
 ## Link to deployed application:
 [donnathompson7.github.io/Module1-Challenge](https://donnathompson7.github.io/Module1-Challenge)
-
-## Description of Horiseon website modifications:
-* Ensure that accessibility standards are met.
-
-## Benefit of modifications:
-* The website will be optimized for search engines.
 
 <br/>
 
