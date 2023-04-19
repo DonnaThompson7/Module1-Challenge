@@ -36,5 +36,9 @@
   THEN they fall in sequential order
   WHEN I view the title element
   THEN I find a concise, descriptive title
+```
 
+<br/>
 
+## Screenshot of website homepage:
+![Horiseon website home page](./assets/images/Horiseon_homepage.png)
