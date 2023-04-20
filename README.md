@@ -8,6 +8,17 @@
 
 <br/>
 
+## Summary of modifications:
+* Added alt attributes for image and icon elements
+* Ordered header attributes in proper sequence
+* Combined redundant code on the style sheet
+* substituted div for semantic elements where possible
+* need more semantic elements?
+* more concise descriptive title?
+
+
+<br/>
+
 ## Link to deployed application:
 [donnathompson7.github.io/Module1-Challenge](https://donnathompson7.github.io/Module1-Challenge)
 
@@ -42,3 +53,4 @@
 
 ## Screenshot of website homepage:
 ![Horiseon website home page](./assets/images/Horiseon_homepage.png)
+![Horiseon website home page](./assets/images/Horiseon_homepage2.png)
