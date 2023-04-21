@@ -1,15 +1,17 @@
 
-/* what is this block for?  */
+/* Uuniversal styles */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body style */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,20 +45,27 @@ body {
     margin-left: 25px;
 }
 
+/* Link styles */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Link labels turn red when mouse hovers over them */
+a:hover {
+    color: red;
+}
+
+/* Paragraph styles */
 p {
     font-size: 16px;
 }
 
+/* Background image styles */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    /* is it recommended to have alt attribute for background image? */
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -72,12 +81,33 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* Main styles */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Main Section styles */
+main section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+main section img {
+    max-height: 200px;
+}
+
+main section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Sidebar (aside) styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -89,6 +119,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Sidebar Section styles */
 .benefit-image {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,32 +136,14 @@ p {
     max-width: 150px;
 }
 
-.top-bar-options {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.top-bar-options img {
-    max-height: 200px;
-}
-
-.top-bar-options h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
-.footer {
+/* Footer styles */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }

@@ -9,12 +9,12 @@
 <br/>
 
 ## Summary of modifications:
-* Added alt attributes for image and icon elements
-* Ordered header attributes in proper sequence
+* Added alt attributes for image and icon elements to improved accessibility
 * Combined redundant code on the style sheet
-* substituted div for semantic elements where possible
-* need more semantic elements?
-* more concise descriptive title?
+* Substituted semantic elements for div, where possible
+* Added comments for readability to both the index file and style sheet
+* Created a concise descriptive title for the webpage
+* Added hover property on 3 links in header
 
 
 <br/>
@@ -51,6 +51,6 @@
 
 <br/>
 
-## Screenshot of website homepage:
+## Screenshot of Horiseon website:
 ![Horiseon website home page](./assets/images/Horiseon_homepage.png)
 ![Horiseon website home page](./assets/images/Horiseon_homepage2.png)
